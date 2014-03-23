@@ -6,3 +6,5 @@ This script takes inputs from a pre-defined SQL Database (config.db) and updates
 
 
 This requires the BeautifulSoup library to work.
+
+edit from online git
